@@ -1,2 +1,2 @@
 # hello-world
-A noob project
+A noob project for a noob coder
